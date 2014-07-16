@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="2"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="mtei"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=1 -->
+          <LangSysRecord index="0">
+            <LangSysTag value="MNI "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=1 -->
+              <FeatureIndex index="0" value="1"/>
+            </LangSys>
+          </LangSysRecord>
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=3 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=8 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+          <LookupListIndex index="2" value="2"/>
+          <LookupListIndex index="3" value="3"/>
+          <LookupListIndex index="4" value="4"/>
+          <LookupListIndex index="5" value="5"/>
+          <LookupListIndex index="6" value="6"/>
+          <LookupListIndex index="7" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=8 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+          <LookupListIndex index="2" value="2"/>
+          <LookupListIndex index="3" value="3"/>
+          <LookupListIndex index="4" value="4"/>
+          <LookupListIndex index="5" value="5"/>
+          <LookupListIndex index="6" value="6"/>
+          <LookupListIndex index="7" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=8 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+          <LookupListIndex index="2" value="2"/>
+          <LookupListIndex index="3" value="3"/>
+          <LookupListIndex index="4" value="4"/>
+          <LookupListIndex index="5" value="5"/>
+          <LookupListIndex index="6" value="6"/>
+          <LookupListIndex index="7" value="7"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=16 -->
+      <Lookup index="0">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="uniAAE0"/>
+            <Glyph value="uniAAE1"/>
+            <Glyph value="uniAAE2"/>
+            <Glyph value="uniAAE3"/>
+            <Glyph value="uniAAE5"/>
+            <Glyph value="uniAAE8"/>
+            <Glyph value="uniAAEA"/>
+            <Glyph value="uniABC2"/>
+            <Glyph value="uniABC3"/>
+            <Glyph value="uniABC5"/>
+            <Glyph value="uniABC6"/>
+            <Glyph value="uniABC7"/>
+            <Glyph value="uniABC8"/>
+            <Glyph value="uniABCA"/>
+            <Glyph value="uniABCC"/>
+            <Glyph value="uniABCD"/>
+            <Glyph value="uniABCE"/>
+            <Glyph value="uniABCF"/>
+            <Glyph value="uniABD0"/>
+            <Glyph value="uniABD1"/>
+            <Glyph value="uniABD2"/>
+            <Glyph value="uniABD3"/>
+            <Glyph value="uniABD4"/>
+            <Glyph value="uniABD5"/>
+            <Glyph value="uniABD6"/>
+            <Glyph value="uniABD7"/>
+            <Glyph value="uniABD8"/>
+            <Glyph value="uniABD9"/>
+            <Glyph value="uniABDA"/>
+            <Glyph value="uniABDC"/>
+            <Glyph value="uniABDD"/>
+            <Glyph value="uniABDF"/>
+            <Glyph value="uniABE0"/>
+            <Glyph value="uniABE1"/>
+            <Glyph value="uniABE2"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uniABED"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="uniAAE6"/>
+            <Glyph value="uniAAE7"/>
+            <Glyph value="uniABC0"/>
+            <Glyph value="uniABC1"/>
+            <Glyph value="uniABC9"/>
+            <Glyph value="uniABCB"/>
+            <Glyph value="uniABDB"/>
+            <Glyph value="uniABDE"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="8"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="uniAAE0"/>
+            <Glyph value="uniAAE1"/>
+            <Glyph value="uniAAE2"/>
+            <Glyph value="uniAAE3"/>
+            <Glyph value="uniAAE5"/>
+            <Glyph value="uniAAE8"/>
+            <Glyph value="uniAAEA"/>
+            <Glyph value="uniABC2"/>
+            <Glyph value="uniABC3"/>
+            <Glyph value="uniABC5"/>
+            <Glyph value="uniABC6"/>
+            <Glyph value="uniABC7"/>
+            <Glyph value="uniABC8"/>
+            <Glyph value="uniABCA"/>
+            <Glyph value="uniABCC"/>
+            <Glyph value="uniABCD"/>
+            <Glyph value="uniABCE"/>
+            <Glyph value="uniABCF"/>
+            <Glyph value="uniABD0"/>
+            <Glyph value="uniABD1"/>
+            <Glyph value="uniABD2"/>
+            <Glyph value="uniABD3"/>
+            <Glyph value="uniABD4"/>
+            <Glyph value="uniABD5"/>
+            <Glyph value="uniABD6"/>
+            <Glyph value="uniABD7"/>
+            <Glyph value="uniABD8"/>
+            <Glyph value="uniABD9"/>
+            <Glyph value="uniABDA"/>
+            <Glyph value="uniABDC"/>
+            <Glyph value="uniABDD"/>
+            <Glyph value="uniABDF"/>
+            <Glyph value="uniABE0"/>
+            <Glyph value="uniABE1"/>
+            <Glyph value="uniABE2"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uniABED"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="uniAAE4"/>
+            <Glyph value="uniAAE9"/>
+            <Glyph value="uniABC4"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="9"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="uniAAE6"/>
+            <Glyph value="uniAAE7"/>
+            <Glyph value="uniABC0"/>
+            <Glyph value="uniABC1"/>
+            <Glyph value="uniABC9"/>
+            <Glyph value="uniABCB"/>
+            <Glyph value="uniABDB"/>
+            <Glyph value="uniABDE"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uniABED"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="uniAAE0"/>
+            <Glyph value="uniAAE1"/>
+            <Glyph value="uniAAE2"/>
+            <Glyph value="uniAAE3"/>
+            <Glyph value="uniAAE5"/>
+            <Glyph value="uniAAE8"/>
+            <Glyph value="uniAAEA"/>
+            <Glyph value="uniABC2"/>
+            <Glyph value="uniABC3"/>
+            <Glyph value="uniABC5"/>
+            <Glyph value="uniABC6"/>
+            <Glyph value="uniABC7"/>
+            <Glyph value="uniABC8"/>
+            <Glyph value="uniABCA"/>
+            <Glyph value="uniABCC"/>
+            <Glyph value="uniABCD"/>
+            <Glyph value="uniABCE"/>
+            <Glyph value="uniABCF"/>
+            <Glyph value="uniABD0"/>
+            <Glyph value="uniABD1"/>
+            <Glyph value="uniABD2"/>
+            <Glyph value="uniABD3"/>
+            <Glyph value="uniABD4"/>
+            <Glyph value="uniABD5"/>
+            <Glyph value="uniABD6"/>
+            <Glyph value="uniABD7"/>
+            <Glyph value="uniABD8"/>
+            <Glyph value="uniABD9"/>
+            <Glyph value="uniABDA"/>
+            <Glyph value="uniABDC"/>
+            <Glyph value="uniABDD"/>
+            <Glyph value="uniABDF"/>
+            <Glyph value="uniABE0"/>
+            <Glyph value="uniABE1"/>
+            <Glyph value="uniABE2"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="10"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="uniAAE6"/>
+            <Glyph value="uniAAE7"/>
+            <Glyph value="uniABC0"/>
+            <Glyph value="uniABC1"/>
+            <Glyph value="uniABC9"/>
+            <Glyph value="uniABCB"/>
+            <Glyph value="uniABDB"/>
+            <Glyph value="uniABDE"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uniABED"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="uniAAE6"/>
+            <Glyph value="uniAAE7"/>
+            <Glyph value="uniABC0"/>
+            <Glyph value="uniABC1"/>
+            <Glyph value="uniABC9"/>
+            <Glyph value="uniABCB"/>
+            <Glyph value="uniABDB"/>
+            <Glyph value="uniABDE"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="11"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="uniAAE6"/>
+            <Glyph value="uniAAE7"/>
+            <Glyph value="uniABC0"/>
+            <Glyph value="uniABC1"/>
+            <Glyph value="uniABC9"/>
+            <Glyph value="uniABCB"/>
+            <Glyph value="uniABDB"/>
+            <Glyph value="uniABDE"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uniABED"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="uniAAE4"/>
+            <Glyph value="uniAAE9"/>
+            <Glyph value="uniABC4"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="12"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="uniAAE4"/>
+            <Glyph value="uniAAE9"/>
+            <Glyph value="uniABC4"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uniABED"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="uniAAE0"/>
+            <Glyph value="uniAAE1"/>
+            <Glyph value="uniAAE2"/>
+            <Glyph value="uniAAE3"/>
+            <Glyph value="uniAAE5"/>
+            <Glyph value="uniAAE8"/>
+            <Glyph value="uniAAEA"/>
+            <Glyph value="uniABC2"/>
+            <Glyph value="uniABC3"/>
+            <Glyph value="uniABC5"/>
+            <Glyph value="uniABC6"/>
+            <Glyph value="uniABC7"/>
+            <Glyph value="uniABC8"/>
+            <Glyph value="uniABCA"/>
+            <Glyph value="uniABCC"/>
+            <Glyph value="uniABCD"/>
+            <Glyph value="uniABCE"/>
+            <Glyph value="uniABCF"/>
+            <Glyph value="uniABD0"/>
+            <Glyph value="uniABD1"/>
+            <Glyph value="uniABD2"/>
+            <Glyph value="uniABD3"/>
+            <Glyph value="uniABD4"/>
+            <Glyph value="uniABD5"/>
+            <Glyph value="uniABD6"/>
+            <Glyph value="uniABD7"/>
+            <Glyph value="uniABD8"/>
+            <Glyph value="uniABD9"/>
+            <Glyph value="uniABDA"/>
+            <Glyph value="uniABDC"/>
+            <Glyph value="uniABDD"/>
+            <Glyph value="uniABDF"/>
+            <Glyph value="uniABE0"/>
+            <Glyph value="uniABE1"/>
+            <Glyph value="uniABE2"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="13"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="6">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="uniAAE4"/>
+            <Glyph value="uniAAE9"/>
+            <Glyph value="uniABC4"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uniABED"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="uniAAE6"/>
+            <Glyph value="uniAAE7"/>
+            <Glyph value="uniABC0"/>
+            <Glyph value="uniABC1"/>
+            <Glyph value="uniABC9"/>
+            <Glyph value="uniABCB"/>
+            <Glyph value="uniABDB"/>
+            <Glyph value="uniABDE"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="14"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="7">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="uniAAE4"/>
+            <Glyph value="uniAAE9"/>
+            <Glyph value="uniABC4"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uniABED"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="uniAAE4"/>
+            <Glyph value="uniAAE9"/>
+            <Glyph value="uniABC4"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="15"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="8">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uniABED" out="glyph00083"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="9">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uniABED" out="glyph00084"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="10">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uniABED" out="glyph00085"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="11">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uniABED" out="glyph00086"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="12">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uniABED" out="glyph00087"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="13">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uniABED" out="glyph00088"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="14">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uniABED" out="glyph00089"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="15">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uniABED" out="glyph00090"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
