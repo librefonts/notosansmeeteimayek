@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Meetei Mayek",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 11862,
+  "fonts": [
+    {
+      "name": "Noto Sans Meetei Mayek",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansMeeteiMayek-Regular.ttf",
+      "postScriptName": "NotoSansMeeteiMayek",
+      "fullName": "Noto Sans Meetei Mayek",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
